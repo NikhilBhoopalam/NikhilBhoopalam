@@ -13,7 +13,7 @@ Feel free to connect with me [@NikhilBhoopalam](https://github.com/NikhilBhoopal
 
 Joined Github **4** years ago.
 
-Since then I pushed **7**+ commits, opened **1**+ issues, submitted **1**+ pull requests, and contributed to **0**+ public repositories.
+Since then I pushed **8**+ commits, opened **1**+ issues, submitted **1**+ pull requests, and contributed to **0**+ public repositories.
 
 ### My Values
 
@@ -35,10 +35,10 @@ Since then I pushed **7**+ commits, opened **1**+ issues, submitted **1**+ pull 
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working with JS, TS, AWS, etc.
-- 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, RAG, etc.
+- 🛠 &nbsp; I’m currently working with Python, SQL, Spark, Kafka, Airflow, AWS, and BI tools to build scalable data pipelines and analytical solutions.
+- 🚀 &nbsp;  I build real-time data pipelines that move faster than my WiFi—thanks to Kafka, Spark, and Airflow. ⚡📊
 - 💬 &nbsp; Ask me anything [here](https://github.com/NikhilBhoopalam/NikhilBhoopalam/issues/1)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
+- 📊 &nbsp; Fun fact: The most valuable data is often the data you didn’t know you needed.
 - 📫 &nbsp; Reach me out: nikhil.bhoopalam@gmail.com
 
 ### My Absolute Favorites:
