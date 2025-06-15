@@ -13,7 +13,7 @@ Feel free to connect with me [@NikhilBhoopalam](https://github.com/NikhilBhoopal
 
 Joined Github **4** years ago.
 
-Since then I pushed **122**+ commits, opened **3**+ issues, submitted **6**+ pull requests, and contributed to **0**+ public repositories.
+Since then I pushed **126**+ commits, opened **3**+ issues, submitted **6**+ pull requests, and contributed to **0**+ public repositories.
 
 ### My Values
 
