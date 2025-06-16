@@ -11,7 +11,7 @@ Driven by problem-solving and first-principle thinking, I leverage Python, SQL, 
 
 Feel free to connect with me [@NikhilBhoopalam](https://github.com/NikhilBhoopalam/) for all things tech or just to say hello! Let's shape the future of tech together. 🌟
 
-Joined Github **4** years ago.
+Joined Github **5** years ago.
 
 Since then I pushed **126**+ commits, opened **3**+ issues, submitted **6**+ pull requests, and contributed to **0**+ public repositories.
 
